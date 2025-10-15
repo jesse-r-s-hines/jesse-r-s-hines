@@ -1,4 +1,4 @@
-Hi! I'm Jesse Hines. I'm a full-stack software developer working mostly in Python and TypeScript.
+Hi! I'm Jesse Hines. I'm a full-stack software developer working in Python and TypeScript.
 
 You can see some of my open source projects here:
 - [WDIO Obsidian Service](https://github.com/jesse-r-s-hines/wdio-obsidian-service): A WebdriverIO service for end-to-end testing [Obsidian](https://obsidian.md) plugins
